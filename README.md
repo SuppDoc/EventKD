@@ -10,4 +10,4 @@ BibTex:
 We present a RGB-event paired dataset, namely Cifar-Event paired dataset (CEP-DVS). This dataset is recorded with random motion conditions and is compatible with mutli-modality visual tasks. The dowloading link of this dataset is: xxx
 
 ## Contact
-For any questions or bug reports, please contact Yin Bi at yongjdeng2-c@my.cityu.edu.hk.
+For any questions or bug reports, please contact Yongjian Deng at yongjdeng2-c@my.cityu.edu.hk.
