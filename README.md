@@ -4,7 +4,15 @@
 This repository aims to provide a dowloading link of the multi-modal dataset proposed by the following paper. Please cite following paper if you use this dataset in your own work. The paper is avalable via: (will be available soon).
 
 BibTex:
-(will be available soon).
+@ARTICLE{9426390,  
+author={Deng, Yongjian and Chen, Hao and Chena, Huiying and Li, Youfu},  
+journal={IEEE Transactions on Image Processing},   
+title={Learning from Images: A Distillation Learning Framework for Event Cameras},   
+year={2021},  
+volume={},  
+number={},  
+pages={1-1},  
+doi={10.1109/TIP.2021.3077136}}
 
 
 ## Dataset: CEP-DVS
