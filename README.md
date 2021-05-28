@@ -8,7 +8,7 @@ We present a RGB-event paired dataset, namely Cifar-Event paired dataset (CEP-DV
 
 ## BibTex:
 @ARTICLE{9426390,  
-author={Deng, Yongjian and Chen, Hao and Chena, Huiying and Li, Youfu},  
+author={Deng, Yongjian and Chen, Hao and Chen, Huiying and Li, Youfu},  
 journal={IEEE Transactions on Image Processing},   
 title={Learning from Images: A Distillation Learning Framework for Event Cameras},   
 year={2021},  
