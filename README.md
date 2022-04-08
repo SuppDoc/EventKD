@@ -6,6 +6,9 @@ This repository aims to provide a dowloading link of the multi-modal dataset pro
 ## Dataset: CEP-DVS
 We present a RGB-event paired dataset, namely Cifar-Event paired dataset (CEP-DVS). This dataset is recorded with random motion conditions and is compatible with mutli-modality visual tasks. The dowloading link of this dataset is: https://1drv.ms/f/s!AvsXtwnFBhV9hgKc6QWxc42O0Vxx.
 
+## Github:
+https://github.com/SuppDoc/EventKD
+
 ## BibTex:
 @ARTICLE{9426390,  
 author={Deng, Yongjian and Chen, Hao and Chen, Huiying and Li, Youfu},  
